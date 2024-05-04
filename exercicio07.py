@@ -1,7 +1,10 @@
-valor1= int(input("escreva a base: "))
+# Curso basico de python
+# Nome do desenvolvedor: Leandro Reichardt Alcantara
+# versão 1.0
+# exercicio de logica de programação
+# com a logica de programação em python
+# Exercicio antecessor
+valor= int(input("escreva um valor: "))
+antecessor = valor - 1
 
-valor2= int(input("escreva a altura: "))
-
-calculo = valor1*valor2
-
-print("a area do retângulo é :", calculo)
+print("O antecessor deste numero é: ", antecessor)

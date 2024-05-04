@@ -3,5 +3,9 @@
 # versão 1.0
 # exercicio de logica de programação
 # com a logica de programação em python
-# Exercicio "hello word"
-print("hello word")
+# Exercicio Area do circulo
+valor1= int(input("escreva o raio: "))
+
+calculo = (valor1**2)*3.14
+
+print("a area do cirgulo é :", calculo)
